@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.54
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 4284.23
+    },
+    {
+      "id": 4,
+      "name": "Mouse Logitech MX Vertical",
+      "price": 425.58
+    },
+    {
+      "name": "Teclado Redragon BRAHMA PRO ABNT2 K586RGB-PRO",
+      "price": 512.84,
+      "id": 5
+    }
+  ]
+}
